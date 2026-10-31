@@ -1,0 +1,11 @@
+{
+  "name": "fitv",
+  "url": "https://github.com/hanshs474/fitv-haxe",
+  "license": "MIT",
+  "tags": ["ai", "video", "image-to-video", "http", "api", "cross"],
+  "description": "Free image to video AI with no daily cap: your first clip needs no sign-up, then a free account keeps going. Every video comes with sound and no watermark.",
+  "version": "0.1.0",
+  "classPath": "src/",
+  "releasenote": "First release: Fitv site helpers for sys targets",
+  "contributors": ["fitv"]
+}
